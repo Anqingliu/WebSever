@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servlets>
+	<servlet>
+		<url>/myweb/reg</url>
+		<className>cn.anqing.webserver.servlet.RegServlet</className>
+	</servlet>
+	<servlet>
+		<url>/myweb/reg</url>
+		<className>cn.anqing.webserver.servlet.LoginServlet</className>
+	</servlet>
+</servlets>
